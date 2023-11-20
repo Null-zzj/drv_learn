@@ -1,0 +1,4 @@
+CompileFlags:                     # Tweak the parse settings
+  Remove: [-mapcs,-mno-sched-prolog,-fno-ipa-sra,-mno-thumb-interwork,-fno-var-tracking-ssignments,-fconserve-stack, -fno-var-tracking-assignments,-mno-single-pic-base]
+
+    
